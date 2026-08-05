@@ -95,7 +95,7 @@ YTDL_OPTIONS = {
     'format': 'bestaudio/best',
     'extractaudio': True,
     'audioformat': 'mp3',
-    'outtmpl': f'{DOWNLOAD_DIR}/%(id)s.%(ext)s',
+    'outtmpl': 'downloads/%(id)s.%(ext)s',
     'restrictfilenames': True,
     'noplaylist': True,
     'nocheckcertificate': True,
@@ -105,9 +105,10 @@ YTDL_OPTIONS = {
     'no_warnings': True,
     'default_search': 'auto',
     'source_address': '0.0.0.0',
+    # 💡 모바일 앱 클라이언트로 우회하여 봇 감지 회피
     'extractor_args': {
         'youtube': {
-            'player_client': ['android', 'web']
+            'player_client': ['ios', 'android', 'mweb']
         }
     }
 }
