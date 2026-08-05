@@ -7,6 +7,7 @@ import re
 import typing
 import urllib.parse
 from dotenv import load_dotenv
+from keep_alive import keep_alive
 
 from bs4 import BeautifulSoup
 import discord
@@ -25,6 +26,7 @@ KST = timezone(timedelta(hours=9))
 # ⚙️ 환경 변수 로드 (.env 파일)
 # ==========================================
 load_dotenv()
+keep_alive()
 
 TOKEN = os.getenv("DISCORD_TOKEN")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
