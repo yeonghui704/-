@@ -1,0 +1,793 @@
+{
+    "users": {
+        "366873437022453780": {
+            "money": 0,
+            "last_date": "2026-07-31",
+            "exp": 230,
+            "level": 6,
+            "points": 1537,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원",
+                "💰 서버 대부호"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 512
+        },
+        "1530199717617598585": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 35,
+            "level": 1,
+            "points": 38,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 0
+        },
+        "993817076668039182": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 78,
+            "level": 4,
+            "points": 567,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 108
+        },
+        "1197402639172902972": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 17,
+            "level": 1,
+            "points": 20,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 0
+        },
+        "1368619178415751199": {
+            "money": 20000,
+            "last_date": "2026-07-31",
+            "exp": 6,
+            "level": 2,
+            "points": 124,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 30
+        },
+        "1465970060417040508": {
+            "money": 50000,
+            "last_date": "2026-08-03",
+            "exp": 91,
+            "level": 1,
+            "points": 95,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 16
+        },
+        "1529725370188693645": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 2,
+            "level": 1,
+            "points": 2,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "weekly_chat_count": 0
+        },
+        "1275121685372342444": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 13,
+            "level": 1,
+            "points": 11,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 0
+        },
+        "1523725848522522777": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 4,
+            "level": 1,
+            "points": 4,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 0
+        },
+        "1523301286223548426": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 3,
+            "level": 1,
+            "points": 2,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 0
+        },
+        "724270707415973939": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 7,
+            "level": 3,
+            "points": 256,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 25
+        },
+        "819124941936263188": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 5,
+            "level": 1,
+            "points": 4,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 0
+        },
+        "1462278801282044152": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 8,
+            "level": 1,
+            "points": 10,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 0
+        },
+        "1530630366329835662": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 5,
+            "level": 1,
+            "points": 5,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 0
+        },
+        "1425736565442871417": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 52,
+            "level": 1,
+            "points": 46,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 12
+        },
+        "930627058722287716": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 1,
+            "level": 1,
+            "points": 2,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 0
+        },
+        "884289885442297876": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 2,
+            "level": 1,
+            "points": 1,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 0
+        },
+        "1517894391543369900": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 10,
+            "level": 1,
+            "points": 10,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 2
+        },
+        "624817322007199764": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 1,
+            "level": 1,
+            "points": 3,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 0
+        },
+        "940157799810334840": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 12,
+            "level": 1,
+            "points": 13,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 0
+        },
+        "1394978827150692355": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 1,
+            "level": 1,
+            "points": 3,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 1
+        },
+        "433241611606949889": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 1,
+            "level": 1,
+            "points": 3,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 1
+        },
+        "422229896677425162": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 1,
+            "level": 1,
+            "points": 3,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 1
+        },
+        "368350391156473868": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 123,
+            "level": 2,
+            "points": 206,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 114
+        },
+        "1491572527984803860": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 811,
+            "level": 7,
+            "points": 2907,
+            "inventory": {
+                "sniper_rifle": 1,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 1472
+        },
+        "896019353089212486": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 29,
+            "level": 1,
+            "points": 32,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 15
+        },
+        "475571480772608021": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 56,
+            "level": 2,
+            "points": 158,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 81
+        },
+        "1531584525363314760": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 2,
+            "level": 1,
+            "points": 1,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 1
+        },
+        "365676056465768459": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 200,
+            "level": 4,
+            "points": 688,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 347
+        },
+        "508257509505499136": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 42,
+            "level": 2,
+            "points": 152,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 76
+        },
+        "269796410897989634": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 44,
+            "level": 1,
+            "points": 51,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 22
+        },
+        "393751261507354624": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 44,
+            "level": 2,
+            "points": 161,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 74
+        },
+        "378803464391884801": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 102,
+            "level": 2,
+            "points": 195,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 103
+        },
+        "1116673500325892167": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 62,
+            "level": 1,
+            "points": 63,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 30
+        },
+        "1460626140468346954": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 3,
+            "level": 1,
+            "points": 3,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 1
+        },
+        "1151886946428272700": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 5,
+            "level": 1,
+            "points": 5,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 2
+        },
+        "1081147905487949884": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 5,
+            "level": 1,
+            "points": 3,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 2
+        },
+        "1211276250098704435": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 2,
+            "level": 1,
+            "points": 2,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 1
+        },
+        "1224432948447547543": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 3,
+            "level": 1,
+            "points": 2,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 1
+        },
+        "280602770514509824": {
+            "money": 20000,
+            "last_date": "2026-08-01",
+            "exp": 7,
+            "level": 1,
+            "points": 9,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 5
+        },
+        "1426909207851958274": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 2,
+            "level": 1,
+            "points": 1,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 1
+        },
+        "1496006785348403303": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 2,
+            "level": 1,
+            "points": 3,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 1
+        },
+        "1120967156167868507": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 3,
+            "level": 1,
+            "points": 1,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 1
+        },
+        "739347238287048786": {
+            "money": 10000,
+            "last_date": "",
+            "exp": 3,
+            "level": 1,
+            "points": 6,
+            "inventory": {
+                "sniper_rifle": 0,
+                "custom_role_ticket": 0
+            },
+            "affinity": 50,
+            "has_purchased_role": false,
+            "titles": [
+                "🌱 신입 사원"
+            ],
+            "equipped_title": "🌱 신입 사원",
+            "weekly_chat_count": 3
+        }
+    }
+}
