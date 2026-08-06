@@ -96,7 +96,7 @@ if not os.path.exists(DOWNLOAD_DIR):
     os.makedirs(DOWNLOAD_DIR)
 
 YTDL_OPTIONS = {
-    'format': 'bestaudio/best',
+    'format': 'bestaudio/best/ba/b',  # 💡 단독 오디오가 없을 경우 비디오+오디오 통합 스트림까지 유연하게 선택하도록 수정
     'extractaudio': True,
     'audioformat': 'mp3',
     'outtmpl': 'downloads/%(id)s.%(ext)s',
@@ -109,10 +109,10 @@ YTDL_OPTIONS = {
     'no_warnings': True,
     'default_search': 'auto',
     'source_address': '0.0.0.0',
-    'cookiefile': 'cookies.txt',  # 💡 쿠키 파일 사용 설정 추가
+    'cookiefile': 'cookies.txt',
     'extractor_args': {
         'youtube': {
-            'player_client': ['ios', 'android', 'mweb']
+            'player_client': ['ios', 'android', 'mweb', 'web']  # 💡 web 클라이언트 항목 추가
         }
     }
 }
