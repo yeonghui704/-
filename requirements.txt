@@ -7,3 +7,4 @@ yt-dlp
 Flask
 PyNaCl
 davey
+yt-dlp-youtube-oauth2
