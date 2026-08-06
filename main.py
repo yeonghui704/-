@@ -43,6 +43,10 @@ intents.presences = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 ai_client = genai.Client(api_key=GEMINI_API_KEY)
 
+if os.getenv("YOUTUBE_COOKIES"):
+    with open("cookies.txt", "w", encoding="utf-8") as f:
+        f.write(os.getenv("YOUTUBE_COOKIES"))
+
 # ==========================================
 # 📁 1. 통합 서버 채널 데이터 저장/불러오기
 # ==========================================
@@ -105,7 +109,7 @@ YTDL_OPTIONS = {
     'no_warnings': True,
     'default_search': 'auto',
     'source_address': '0.0.0.0',
-    # 💡 모바일 앱 클라이언트로 우회하여 봇 감지 회피
+    'cookiefile': 'cookies.txt',  # 💡 쿠키 파일 사용 설정 추가
     'extractor_args': {
         'youtube': {
             'player_client': ['ios', 'android', 'mweb']
