@@ -96,7 +96,9 @@ if not os.path.exists(DOWNLOAD_DIR):
     os.makedirs(DOWNLOAD_DIR)
 
 YTDL_OPTIONS = {
-    'format': 'bestaudio/best',  # 💡 표준 오디오 스트림(m4a/webm) 우선 수신
+    'format': 'bestaudio/best',
+    'extractaudio': True,
+    'audioformat': 'mp3',
     'outtmpl': 'downloads/%(id)s.%(ext)s',
     'restrictfilenames': True,
     'noplaylist': True,
@@ -107,12 +109,7 @@ YTDL_OPTIONS = {
     'no_warnings': True,
     'default_search': 'auto',
     'source_address': '0.0.0.0',
-    'cookiefile': 'cookies.txt',
-    'extractor_args': {
-        'youtube': {
-            'player_client': ['mweb', 'web']  # 💡 쿠키 인증과 호환성이 높은 모바일웹/웹 클라이언트로 고정
-        }
-    }
+    'username': 'oauth2',  # 💡 OAuth2 기기 인증 방식 적용
 }
 
 ytdl = yt_dlp.YoutubeDL(YTDL_OPTIONS)
