@@ -96,7 +96,8 @@ if not os.path.exists(DOWNLOAD_DIR):
     os.makedirs(DOWNLOAD_DIR)
 
 YTDL_OPTIONS = {
-    'format': 'ba*/b*',  # 💡 오디오/비디오 상관없이 사용 가능한 모든 오디오 스트림 수용
+    # 💡 단독 오디오 스트림이 없으면 일반 영상 스트림을 받은 뒤 오디오만 추출하도록 유연하게 설정
+    'format': 'bestaudio/best/ba/b',
     'extractaudio': True,
     'audioformat': 'mp3',
     'outtmpl': 'downloads/%(id)s.%(ext)s',
@@ -110,9 +111,15 @@ YTDL_OPTIONS = {
     'default_search': 'auto',
     'source_address': '0.0.0.0',
     'cookiefile': 'cookies.txt',
+    # 💡 비디오 수신 시 자동으로 mp3 음원으로 변환
+    'postprocessors': [{
+        'key': 'FFmpegExtractAudio',
+        'preferredcodec': 'mp3',
+        'preferredquality': '192',
+    }],
     'extractor_args': {
         'youtube': {
-            'player_client': ['tv_embedded', 'mweb']  # 💡 포맷 차단이 없는 TV/모바일웹 클라이언트로 변경
+            'player_client': ['ios', 'android', 'mweb']
         }
     }
 }
